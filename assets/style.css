@@ -296,7 +296,7 @@ footer h4 {
 
 .project-info p {
   font-size: 1em;
-  color: var(--mid);
+  color: var(--secondary);
   line-height: 1.5;
   margin: 0;
 }
